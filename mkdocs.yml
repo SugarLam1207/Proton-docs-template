@@ -8,9 +8,9 @@ nav:
   - Hardware Guide:
     - Hardware Checklist: hardwarelist.md
     - Server Setup: serversetup.md
-    - Tentacle Setup: networkenvsetup.md
+    - Tentacle Setup: tentaclesetup.md
     - One click Deployment: oneclickdeployment.md
-    - Verify: oneclickdeployment.md
+    - Verify: verify.md
   - System Guide:
     - Quick start: quickstart.md
     - Order Management: ordermanagement.md
