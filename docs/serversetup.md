@@ -11,47 +11,74 @@
 
 ### 確認國家和地區
 - 選擇United States
-![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/521e71829a2255ae6a78f60512a338f11e4e3972/docs/source/images/001.jpg)
+
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/001.jpg)
+
+
 
 ### 選擇主鍵盤風格
 - 選擇US
-![]
+
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/002.jpg)
+
+
 
 ### 選擇第二鍵盤風格
 - 此處不需要定義第二款鍵盤，選擇Skip
-![]
+
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/003.jpg)
+
+
 
 ### 接受條款
 - 選擇接受
-![]
+
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/004.jpg)
+
+
 
 ### 命名這台服務器
 - 按提示鍵入服務器命名（eg：MT_HKC_01）
-![]
+
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/005-1.jpg)
+
+
 
 ### 定義服務器的用途
 - 選擇用於工作或學校
-![]
+
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/005-2.jpg)
+
+
 
 ### 選擇登錄方式
 - 選擇通過域加入
-![]
+
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/006.jpg)
+
+
 
 ### 創建用戶賬號
 - 鍵入Admin
-![]
+
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/007.jpg)
+
+
 
 ### 設置登錄密碼
 - 此處可以按需設置，請注意使用強類型密碼
-![]
+
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/008.jpg)
+
+
 
 ### 設置密保問題
 - 一共需要設置三個，此步驟主要用於忘記密碼時可以通過密保問題解鎖，可根據個人喜好設置
 
 ### 等待服務器配置及啟動
 - 此處可能需要等待1~5分鐘
-![]
+
 
 ### 服務器初始化完成
 - 當服務器進入Home界面，則表示服務器初始化已完成
-![]
+
