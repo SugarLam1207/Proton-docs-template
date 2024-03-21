@@ -11,7 +11,7 @@
 
 ### 確認國家和地區
 - 選擇United States
-![](https://github.com/SugarLam1207/Proton-docs-template/blob/521e71829a2255ae6a78f60512a338f11e4e3972/docs/source/images/001.jpg)
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/521e71829a2255ae6a78f60512a338f11e4e3972/docs/source/images/001.jpg)
 
 ### 選擇鍵盤風格
 - 選擇US
