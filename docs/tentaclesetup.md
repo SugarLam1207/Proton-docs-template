@@ -14,7 +14,7 @@
 ![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/blob/efc5845c4a13a5297ef7e6258e0391f5aaf1f0b8/docs/source/images/101.png)
 
 ### 訪問OCTOPUS官網
-- 輸入官方網址 https://octopus.com/
+- 輸入官方網址 [Octopus](https://octopus.com/ "點擊訪問 Octopus")
 - 在網站上方導航欄依次選擇：Resources-Downloads
 ![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/blob/efc5845c4a13a5297ef7e6258e0391f5aaf1f0b8/docs/source/images/102.png)
 
