@@ -4,7 +4,7 @@ repo_url: https://github.com/SugarLam1207/Proton-docs-template
 
 nav:
   - Home:
-    - Index: 0-index.md
+    - Index: index.md
   - Hardware Guide:
     - Hardware Checklist: hardwarelist.md
     - Server Setup: serversetup.md
