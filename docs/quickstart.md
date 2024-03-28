@@ -10,6 +10,14 @@ Before you begin, please ensure that you have created a user account. To log int
 
 On the main interface, you can edit the basic information of your shop, including the shop name, address, contact phone number, and business hours.
 
+| 序号 | 操作内容 |
+| ---- | -------- |
+| 1    | 点击右上角最右的按键 |
+| 2    | 点击pos设置，进入设置界面 |
+| 3    | 点击左侧的员工，进入员工管理 |
+| 4    | 点击新增，填写员工的名、姓、电话、邮箱、设备pin码; 选择默认语言和角色即可完成员工的新增。 |
+
+
 ## Employee Management
 
 You can manage employee accounts, assign different permissions, and set employee login information.

@@ -8,9 +8,9 @@ nav:
   - Hardware Guide:
     - Hardware Checklist: hardwarelist.md
     - Server Setup: serversetup.md
-    - Tentacle Setup: networkenvsetup.md
+    - Tentacle Setup: tentaclesetup.md
     - One click Deployment: oneclickdeployment.md
-    - Verify: oneclickdeployment.md
+    - Verify: verify.md
   - System Guide:
     - Quick start: quickstart.md
     - Order Management: ordermanagement.md
@@ -18,10 +18,6 @@ nav:
     - Payment Function: paymentfunction.md
     - Third-party Orders: thirdpartyorders.md
     - Report Center: reportcenter.md
-    - Offline Mode: offlinemode.md
-  - FAQ:
-    - Common Issues: commonissues.md
-    - Troubleshooting: troubleshooting.md
   - Contact Us:
     - Technical Support: technicalsupport.md
     - Feedback: feedback.md
