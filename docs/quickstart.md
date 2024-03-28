@@ -17,6 +17,7 @@ On the main interface, you can edit the basic information of your shop, includin
 | 3    | 点击左侧的员工，进入员工管理 |
 | 4    | 点击新增，填写员工的名、姓、电话、邮箱、设备pin码; 选择默认语言和角色即可完成员工的新增。 |
 
+![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/POS%E6%B5%8B%E8%AF%95-VIDA.png)
 
 ## Employee Management
 
