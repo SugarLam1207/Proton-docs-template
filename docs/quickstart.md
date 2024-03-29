@@ -1,10 +1,11 @@
-# POS System Quick Start Guide
+# 系統快速入門指南
 
-Welcome to our POS system! This guide will help you quickly understand how to use this system for daily operations.
+歡迎使用我們的系統！本指南會幫助您快速了解系統的入門操作，以便您順利開展日常業務。
 
-## Logging into the System
+## 登錄系統
 
-Before you begin, please ensure that you have created a user account. To log into the system, use your username and password.
+在开始之前，请确保您已從我們的運營團隊拿到店鋪的登錄賬號及店鋪PIN碼。
+當你登錄系統後，通過以下操作，能完成系統的登錄。
 
 ## Shop Information Configuration
 
