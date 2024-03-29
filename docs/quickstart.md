@@ -40,6 +40,15 @@
 | 3  | 點擊刪除，進入刪除確認界面        | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%82%B9%E5%87%BB%E5%88%A0%E9%99%A4%E6%8C%89%E9%94%AE.png) |
 | 4  | 點擊刪除即可完成營業時段的刪除      | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E5%88%A0%E9%99%A4%E7%A1%AE%E8%AE%A4.png)                   |
 
+### 維護店鋪營業時間
+設置好不同的營業時間後，需要在店鋪信息裡配置綁定。
+
+| 序號 | 操作內容                                         | 操作示例                                                                                                                                                                                                                        |
+|----|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | 點擊左側的店鋪信息，進入店鋪信息查看界面，您也可以在此界面編輯店鋪簡稱          | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E5%BA%97%E9%93%BA%E4%BF%A1%E6%81%AF%E7%95%8C%E9%9D%A2.png)                                                                          |
+| 2  | 下滑界面，找到營業時段                                  | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E5%BA%97%E9%93%BA%E4%BF%A1%E6%81%AF%E7%95%8C%E9%9D%A2-%E9%80%89%E6%8B%A9%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5.png)                   |
+| 3  | 點擊營業時段，選擇店鋪的營業時段，此處可以看到之前設置的時段，按需選擇您需要的時段並保存 | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E5%BA%97%E9%93%BA%E4%BF%A1%E6%81%AF%E7%95%8C%E9%9D%A2-%E9%80%89%E6%8B%A9%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%95%8C%E9%9D%A2.png) |
+
 
 ## Employee Management
 
