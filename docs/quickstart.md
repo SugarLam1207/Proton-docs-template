@@ -1,10 +1,8 @@
 # 系統快速入門指南
-
 歡迎使用我們的系統！本指南會幫助您快速了解系統的入門操作，以便您順利開展日常業務。
 
 
 ## 登錄系統
-
 在開始之前，請確保您已從我們的運營團隊拿到店鋪的登錄賬號及店鋪PIN碼。
 通過以下操作，能完成系統的登錄。
 
@@ -50,11 +48,21 @@
 | 3  | 點擊營業時段，選擇店鋪的營業時段，此處可以看到之前設置的時段，按需選擇您需要的時段並保存 | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E5%BA%97%E9%93%BA%E4%BF%A1%E6%81%AF%E7%95%8C%E9%9D%A2-%E9%80%89%E6%8B%A9%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%95%8C%E9%9D%A2.png) |
 
 
-## Employee Management
+## 樓面及桌台管理
 
-You can manage employee accounts, assign different permissions, and set employee login information.
+### 樓面及桌台創建
+您可以在此功能頁面中，根據您的店鋪的實際場地情況，配置店鋪的樓面及桌台佈局。
 
-## Menu Management
+| 序號 | 操作內容                                                | 操作示例                                                                                                                                                                                                                                                  |
+|----|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | 進入設置界面，點擊左側的桌台管理，進入桌台管理界面                           | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%A1%8C%E5%8F%B0%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2.png)                                                                                                    |
+| 2  | 在桌台管理界面點擊新增按鍵，進入新增桌台界面                              | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%A1%8C%E5%8F%B0%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2-%E6%96%B0%E5%A2%9E.png)                                                                                 |
+| 3  | 此處按實際填寫楼面名稱及描述                                      | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E6%A1%8C%E5%8F%B0%E7%95%8C%E9%9D%A2.png)                                                                                                    |
+| 4  | 通過填寫桌臺名稱，桌台容納座位、桌臺的寬度和高度、桌臺的類型，點擊新增即可完成桌臺的創建        | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E6%A1%8C%E5%8F%B0%E7%95%8C%E9%9D%A2-%E5%88%9B%E5%BB%BA%E6%A1%8C%E5%AD%90.png)                                                               |
+| 5  | 當要設置多個相同格式的桌子時，可以在新增桌台後，直接修改桌台名稱，再點擊新增即可完成相同格式的桌台創建 | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E6%A1%8C%E5%8F%B0%E7%95%8C%E9%9D%A2%E5%88%9B%E5%BB%BA%E7%9B%B8%E5%90%8C%E8%A7%84%E6%A0%BC%E7%9A%84%E6%A1%8C%E5%8F%B0%E6%8A%80%E5%B7%A7.png) |
+| 6  | 通過右側的快捷鍵，可以批量調整桌台的排列順序、移動桌台和修改桌台大小                  | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E6%A1%8C%E5%8F%B0%E7%95%8C%E9%9D%A2%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%8A%9F%E8%83%BD.png)                                                       |
+| 7  | 待桌台設置完成後，點擊保存即可完成當前樓面的桌台創建                          | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E6%A1%8C%E5%8F%B0%E7%95%8C%E9%9D%A2%E4%BF%9D%E5%AD%98.png)                                                                                  |
+
 
 ### Adding/Editing Menu Items
 You can add new dishes, and edit existing ones, including their prices and specifications.
