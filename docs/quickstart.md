@@ -51,7 +51,7 @@
 ## 樓面及桌台管理
 
 ### 樓面及桌台創建
-您可以在此功能頁面中，根據您的店鋪的實際場地情況，配置店鋪的樓面及桌台佈局。
+您可以在此功能頁面中，根據您的店鋪的實際場地情況，配置店鋪的樓面及桌台佈局，若您的店鋪無須設置桌台，則可跳過此步驟。
 
 | 序號 | 操作內容                                                | 操作示例                                                                                                                                                                                                                                                  |
 |----|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -63,95 +63,12 @@
 | 6  | 通過右側的快捷鍵，可以批量調整桌台的排列順序、移動桌台和修改桌台大小                  | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E6%A1%8C%E5%8F%B0%E7%95%8C%E9%9D%A2%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%8A%9F%E8%83%BD.png)                                                       |
 | 7  | 待桌台設置完成後，點擊保存即可完成當前樓面的桌台創建                          | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E6%A1%8C%E5%8F%B0%E7%95%8C%E9%9D%A2%E4%BF%9D%E5%AD%98.png)                                                                                  |
 
+### 快速管理樓面的技巧
+若您的店鋪不同樓面的佈局相同，您可以使用本功能，快速複製相同的樓面及桌台。
 
-### Adding/Editing Menu Items
-You can add new dishes, and edit existing ones, including their prices and specifications.
+| 序號 | 操作內容                      | 操作示例                                                                                                                                                                                    |
+|----|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | 選定您希望複製的樓面                | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%A1%8C%E5%8F%B0%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2-%E9%80%89%E5%AE%9A%E7%9B%AE%E6%A0%87.png) |
+| 2  | 點擊複製即可複製生成副本，點擊編輯可以修改樓面命名 | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%A1%8C%E5%8F%B0%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2-%E5%A4%8D%E5%88%B6.png)                   |
+| 3  | 若您不需要該樓面，則可以選定後點擊刪除       | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%A1%8C%E5%8F%B0%E7%95%8C%E9%9D%A2-%E5%88%A0%E9%99%A4.png)                                     |
 
-### Category Management
-You can create different categories for dishes to facilitate customer browsing and ordering.
-
-### Dish Management
-Here, you can manage individual dishes, including adding, deleting, and modifying them.
-
-## Order Management
-
-### In-Store Dining
-When customers dine in, you can take their orders through the system.
-
-### Modifying Orders
-If customers need to change their orders, you can make modifications in the system.
-
-### Deleting Orders
-If an order is no longer needed, you can delete it.
-
-### Viewing Orders
-You can view the status of all orders, including completed and ongoing ones.
-
-## Payment Features
-
-### Cash Payment
-Support for cash payment methods.
-
-### Credit Card/Digital Payment
-The system supports various credit cards and digital payment methods.
-
-## Report Center
-
-### Sales Report
-You can generate sales reports to understand the business situation of your shop.
-
-### Employee Report
-View employee performance and sales achievements.
-
-### Order and Product Report
-Analyze the sales situation of orders and products.
-
-## System Settings
-
-### Order Type Settings
-You can set different order types, such as dine-in, delivery, etc.
-
-### Printer Configuration
-Configure kitchen printers to ensure orders are printed correctly.
-
-### Tax Rate Management
-Set up information related to sales tax.
-
-## Hardware Management
-
-### Printer Management
-Add, delete, update, and search for printer devices.
-
-### Cash Register Management
-Manage cash register devices to ensure they are working properly.
-
-## Business Settings
-
-### Basic Shop Information
-Edit the basic information of your shop.
-
-### Sales Tax Settings
-Configure the calculation method for sales tax.
-
-### Payment Types
-Customize payment types, such as cash, credit cards, etc.
-
-## Permission Management
-
-### Roles and Permissions
-Create different roles and assign appropriate permissions to each role.
-
-## Reports
-
-### General Report
-View the overall report of the shop, including sales, customer flow, and other data.
-
-## Common Issues and Troubleshooting
-
-If you encounter any issues during use, please refer to our FAQ or troubleshooting guide.
-
-## Contact Us
-
-If you need technical support or have any suggestions, please feel free to contact us.
-
-Enjoy your use!
