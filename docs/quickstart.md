@@ -2,10 +2,11 @@
 
 歡迎使用我們的系統！本指南會幫助您快速了解系統的入門操作，以便您順利開展日常業務。
 
+
 ## 登錄系統
 
-在开始之前，请确保您已從我們的運營團隊拿到店鋪的登錄賬號及店鋪PIN碼。
-當你登錄系統後，通過以下操作，能完成系統的登錄。
+在開始之前，請確保您已從我們的運營團隊拿到店鋪的登錄賬號及店鋪PIN碼。
+通過以下操作，能完成系統的登錄。
 
 | 序號 | 操作內容               | 操作示例                                                                                                                                                                                                       |
 |----|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,16 +16,19 @@
 | 4  | 密碼正確後，即可完成系統的登錄    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E5%91%98%E5%B7%A5%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)                                                         |
 
 
-## Shop Information Configuration
+## 新增營業時段
 
-On the main interface, you can edit the basic information of your shop, including the shop name, address, contact phone number, and business hours.
+在此功能中，您可以結合你的店鋪經營計劃，設置對應的營業時段。
 
-| 序号 | 操作内容 |
-| ---- | -------- |
-| 1    | 点击右上角最右的按键 |
-| 2    | 点击pos设置，进入设置界面 |
-| 3    | 点击左侧的员工，进入员工管理 |
-| 4    | 点击新增，填写员工的名、姓、电话、邮箱、设备pin码; 选择默认语言和角色即可完成员工的新增。 |
+| 序號            | 操作內容                                                                                                                                                                                   | 操作示例                                                                                                                                                                                            |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1             | 登錄系統後，點擊右上角最右邊的按鍵                                                                                                                                                                      | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%8C%89%E9%94%AE.png)                   |
+| 2             | 點擊POS設置，進入設置界面                                                                                                                                                                         | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%BF%9B%E5%85%A5POS%E8%AE%BE%E7%BD%AE.png)                                                             |
+| 3             | 點擊左側的营业时段，進入营业时段查看界面                                                                                                                                                                   | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%95%8C%E9%9D%A2.png)                                              |
+| 4             | 在營業時段查看界面點擊深藍色按鍵                                                                                                                                                                       |
+| 新增：進入新增營業時段界面 | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%95%8C%E9%9D%A2%E7%82%B9%E5%87%BB%E6%96%B0%E5%A2%9E.png) |
+| 5             | 依次填寫營業時段的名稱、選擇時段的所屬週期和具體時間                                                                                                                                                             | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%95%8C%E9%9D%A2.png)                            |
+| 6             | 點擊保存，即可完成營業時段的創建                                                                                                                                                                       | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%95%8C%E9%9D%A2%E6%8C%89%E4%BF%9D%E5%AD%98.png) |
 
 
 ## Employee Management
