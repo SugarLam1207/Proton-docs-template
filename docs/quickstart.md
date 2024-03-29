@@ -16,8 +16,9 @@
 | 4  | 密碼正確後，即可完成系統的登錄    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E5%91%98%E5%B7%A5%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)                                                         |
 
 
-## 新增營業時段
+## 營業時段管理
 
+### 新增營業時間
 在此功能中，您可以結合你的店鋪經營計劃，設置對應的營業時段。
 
 | 序號 | 操作內容                          | 操作示例                                                                                                                                                                                            |
@@ -28,6 +29,15 @@
 | 4  | 在營業時段查看界面點擊深藍色按鍵新增：進入新增營業時段界面 | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%95%8C%E9%9D%A2%E7%82%B9%E5%87%BB%E6%96%B0%E5%A2%9E.png)          |
 | 5  | 依次填寫營業時段的名稱、選擇時段的所屬週期和具體時間    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%95%8C%E9%9D%A2.png)                            |
 | 6  | 點擊保存，即可完成營業時段的創建              | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%96%B0%E5%A2%9E%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%95%8C%E9%9D%A2%E6%8C%89%E4%BF%9D%E5%AD%98.png) |
+
+### 刪除營業時間
+若您後續有營業時間的調整或變動，您也可以通過以下操作刪除。
+| 序號 | 操作內容                  | 操作示例                                                                                                                                                                                   |
+|----|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | 點擊左側的营业时段，進入营业时段查看界面； | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%95%8C%E9%9D%A2.png)                                     |
+| 2  | 選定需要刪除的營業時段；          | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E9%80%89%E5%AE%9A%E6%97%B6%E6%AE%B5.png)                   |
+| 3  | 點擊刪除，進入刪除確認界面；        | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E7%82%B9%E5%87%BB%E5%88%A0%E9%99%A4%E6%8C%89%E9%94%AE.png) |
+| 4  | 點擊刪除即可完成營業時段的刪除。      | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%90%A5%E4%B8%9A%E6%97%B6%E6%AE%B5%E5%88%A0%E9%99%A4%E7%A1%AE%E8%AE%A4.png)                   |
 
 
 ## Employee Management
