@@ -7,12 +7,12 @@
 在开始之前，请确保您已從我們的運營團隊拿到店鋪的登錄賬號及店鋪PIN碼。
 當你登錄系統後，通過以下操作，能完成系統的登錄。
 
-| 序號 | 操作內容               |   | 操作示例                                                                                                                                                                                                       |
-|----|--------------------|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | 輸入本地服務器地址          |   | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E9%80%89%E6%8B%A9%E4%BA%91%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8or%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1%E5%99%A8.png) |
-| 2  | 輸入賬號密碼登錄           |   | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%BE%93%E5%85%A5%E5%BA%97%E9%93%BA%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81.png)                                       |
-| 3  | 輸入0001（系統自帶boss賬號） |   | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%BE%93%E5%85%A5%E5%91%98%E5%B7%A5%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81.png)                                       |
-| 4  | 密碼正確後，即可完成系統的登錄    |   | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E5%91%98%E5%B7%A5%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)                                                         |
+| 序號 | 操作內容               | 操作示例                                                                                                                                                                                                       |
+|----|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | 輸入本地服務器地址          | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E9%80%89%E6%8B%A9%E4%BA%91%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8or%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1%E5%99%A8.png) |
+| 2  | 輸入賬號密碼登錄           | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%BE%93%E5%85%A5%E5%BA%97%E9%93%BA%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81.png)                                       |
+| 3  | 輸入0001（系統自帶boss賬號） | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E8%BE%93%E5%85%A5%E5%91%98%E5%B7%A5%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81.png)                                       |
+| 4  | 密碼正確後，即可完成系統的登錄    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E5%91%98%E5%B7%A5%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)                                                         |
 
 
 ## Shop Information Configuration
