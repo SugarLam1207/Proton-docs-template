@@ -1,1 +1,2 @@
-helloworld
+- 配置好Tentacle後，只需要通知我們的Support人員
+- Support人員會在後台操作自動化部署及發佈
