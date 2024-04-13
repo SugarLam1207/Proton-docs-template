@@ -11,7 +11,7 @@ nav:
     - Tentacle配置: tentaclesetup.md
     - 一鍵發佈: oneclickdeployment.md
     - 驗證系統可用: verify.md
-    - 其他設備：otherequipment.md
+    - 其他設備: otherequipment.md
   - 系統使用指引:
     - 快速入門: quickstart.md
     - 點餐管理: ordermanagement.md
