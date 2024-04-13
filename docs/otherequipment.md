@@ -7,7 +7,7 @@
 
 ### 1.打印機配網
 - 訪問[SunmiPrinter](https://developer.sunmi.com/docs/zh-CN/xeghjk491/zzaeghjk480 "點擊訪問 SunmiPrinter")
-- 根據指引，讓打印機和當地網絡配通
+- 根據上文指引進行配網操作，確保打印機和當地網絡配通
 
 ### 2.打印機配置
 - 當打印機和網絡配對後，下一步需要在PAD裡設置，確保後續的打印功能能正常使用
