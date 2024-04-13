@@ -9,7 +9,9 @@
 - 訪問https://developer.sunmi.com/docs/zh-CN/xeghjk491/zzaeghjk480
 - 根據指引，讓打印機和當地網絡配通
 
-### 2.打印機配對
+### 2.打印機配置
 - 當打印機和網絡配對後，下一步需要在PAD裡設置，確保後續的打印功能能正常使用
-- 
+- 具體配置操作，請參考下圖設置
+
+![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/printer%20config.png)
 
