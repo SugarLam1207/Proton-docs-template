@@ -6,7 +6,7 @@
 在开始之前，请确保您已经有打印機，店鋪環境已經搭建好網絡。
 
 ### 1.打印機配網
-- 訪問https://developer.sunmi.com/docs/zh-CN/xeghjk491/zzaeghjk480
+- 訪問[SunmiPrinter](https://developer.sunmi.com/docs/zh-CN/xeghjk491/zzaeghjk480 "點擊訪問 SunmiPrinter")
 - 根據指引，讓打印機和當地網絡配通
 
 ### 2.打印機配置
