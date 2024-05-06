@@ -1,4 +1,3 @@
-Welcome to the POS system! This manual will guide you on how to configure and use the POS system. 
-Please read the following content carefully and enjoy your trail on the POS.
+歡迎使用POS系統！本手冊將指導您如何配置和使用POS系統。
 
-
+聲明：本手冊內容在持續完善及更新中，部分內容可能未有實時更新或補充完整。

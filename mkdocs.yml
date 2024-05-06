@@ -3,21 +3,21 @@ theme: readthedocs
 repo_url: https://github.com/SugarLam1207/Proton-docs-template
 
 nav:
-  - Home:
-    - Index: index.md
-  - Hardware Guide:
-    - Hardware Checklist: hardwarelist.md
-    - Server Setup: serversetup.md
-    - Tentacle Setup: tentaclesetup.md
-    - One click Deployment: oneclickdeployment.md
-    - Verify: verify.md
-  - System Guide:
-    - Quick start: quickstart.md
-    - Order Management: ordermanagement.md
-    - Other Order Types: otherordertypes.md
-    - Payment Function: paymentfunction.md
-    - Third-party Orders: thirdpartyorders.md
-    - Report Center: reportcenter.md
-  - Contact Us:
-    - Technical Support: technicalsupport.md
-    - Feedback: feedback.md
+  - 主頁:
+    - 簡介: index.md
+  - 硬件安裝指引:
+    - 硬件清單: hardwarelist.md
+    - 服務器初始化: serversetup.md
+    - Tentacle配置: tentaclesetup.md
+    - 一鍵發佈: oneclickdeployment.md
+    - 驗證系統可用: verify.md
+    - 其他設備: otherequipment.md
+  - 系統使用指引:
+    - 快速入門: quickstart.md
+    - 點餐管理: ordermanagement.md
+    - 支付管理: paymentfunction.md
+    - 第三方訂單管理: thirdpartyorders.md
+    - 報表中心: reportcenter.md
+  - 聯繫我們:
+    - 技術支持: technicalsupport.md
+    - 意見反饋: feedback.md
