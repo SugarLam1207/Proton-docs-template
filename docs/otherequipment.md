@@ -5,7 +5,7 @@
 ## 打印機
 在开始之前，请确保您已经有打印機，店鋪環境已經搭建好網絡。
 
-### 配置打印機-1 
+### 配置打印機（方式一） 
 通過APP連接配置打印機：
 | 序號 | 操作內容               | 操作示例                                                                                                                                                                                                       |
 |----|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,7 +18,7 @@
 | 7  | 在手機端中選擇打印機    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%89%93%E5%8D%B0%E6%A9%9F-7.png)  |
 | 8  | 選擇打印機WiFi，待WiFi連接后即可完成    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%89%93%E5%8D%B0%E6%A9%9F-8.png)  |
 
-### 配置打印機-2 
+### 配置打印機（方式二） 
 通過小程序連接配置打印機：
 
 | 序號 | 操作內容               | 操作示例                                                                                                                                                                                                       |
@@ -31,7 +31,7 @@
 | 6  | 選擇打印機WiFi    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%89%93%E5%8D%B0%E6%A9%9F2-6.png)  |
 | 7  | 待WiFi連接后即可完成    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%89%93%E5%8D%B0%E6%A9%9F2-7.png)  |
 
-### 配置打印機-3 
+### 配置打印機（方式三） 
 通過網綫連接配置打印機：
 
 | 序號 | 操作內容               | 操作示例                                                                                                                                                                                                       |
@@ -39,6 +39,7 @@
 | 1  | 網綫連接到打印機的網絡接口，另一端連接路由器或連接了區域網的電腦         | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%89%93%E5%8D%B0%E6%A9%9F-2.jpg) |
 | 2  | 待打印機亮藍燈表示網絡連接成功    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E6%89%93%E5%8D%B0%E6%A9%9F2-8.png)  |
 
+## 錢箱
 ### 配置錢箱
 連接配置錢箱：
 
@@ -47,6 +48,7 @@
 | 1  | 連接電源后，連接RJ12接口，另一端連接到終端臺式機或雲打印機中     | ![](https://github.com/VIDA101/Proton-docs-VIDA/blob/main/docs/source/images/%E9%8C%A2%E7%AE%B1-1%20(2).png?raw=true) |
 | 2  | 在POS軟件中，點擊錢箱；若錢箱自動彈出，則説明連接成功；    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E9%8C%A2%E7%AE%B1-1%20(1).png)  |
 
+## 一體機
 ### 配置一體機
 連接配置臺體機：
 
@@ -56,7 +58,7 @@
 | 2  | 長按電源鍵開機，進入臺式一體機界面；點擊設置    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E4%B8%80%E9%AB%94%E6%A9%9F1%20(1).jpg)  |
 | 3  | 在此界面中可以設置相關信息    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E4%B8%80%E9%AB%94%E6%A9%9F1%20(2).jpg)  |
 
-
+## 刷卡機
 ### 配置刷卡機
 配置刷卡機：
 
