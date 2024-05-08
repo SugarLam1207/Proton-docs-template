@@ -56,6 +56,7 @@
 | 2  | 長按電源鍵開機，進入臺式一體機界面；點擊設置    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E4%B8%80%E9%AB%94%E6%A9%9F1%20(1).jpg)  |
 | 3  | 在此界面中可以設置相關信息    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E4%B8%80%E9%AB%94%E6%A9%9F1%20(2).jpg)  |
 
+
 ### 配置刷卡機
 配置刷卡機：
 
@@ -67,5 +68,4 @@
 | 4  | 點擊配對碼    | ![](https://github.com/VIDA101/Proton-docs-VIDA/blob/main/docs/source/images/%E5%88%B7%E5%8D%A1%E6%A9%9F1%20(3).png)  |
 | 5  | 在Easy POS中綁定刷卡機時輸入配對碼即可完成連接    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E5%88%B7%E5%8D%A1%E6%A9%9F1%20(1).jpg)  |
 
-![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/printer%20config.png)
 
