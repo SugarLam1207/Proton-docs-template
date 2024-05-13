@@ -6,7 +6,7 @@
 
 ### 下載最新的PAD安裝包
 - 訪問安裝包連接，並按在線Support人員的指引，下載最新的PAD安裝包
-https://install.appcenter.ms/orgs/proton-technology/apps/easypos-android-prd/distribution_groups/open
+- 輸入下載網址 [最新正式安裝包for PAD]([https://install.appcenter.ms/orgs/proton-technology/apps/easypos-android-prd/distribution_groups/open] "點擊訪問 安裝包")
 
 ### 驗證軟件可用性
 - 完成安裝後，通知在線Support人員
