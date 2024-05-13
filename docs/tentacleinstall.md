@@ -38,6 +38,7 @@
 ### 根據提示安裝
 - 在瀏覽器的下載區找到已經完成下載的安裝包，並雙擊安裝包
 - 根據提示安裝，整個過程均按默認選項安裝，按提示操作下一步即可
+- 圖片可以右擊在新網頁打開看大圖
 
 ![](https://raw.githubusercontent.com/SugarLam1207/Proton-docs-template/1.1/docs/source/images/104.png)
 
