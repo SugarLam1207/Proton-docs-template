@@ -7,8 +7,6 @@ nav:
     - 閱讀須知: index.md
   - 第一章 - 硬件指引:
     - 硬件清單: hardwarelist.md
-  - 網絡配置:
-    - 路由器設置: networksetup.md
   - 服務器部署: 
     - 服務器初始化: serversetup.md
   - Tentacle配置:
@@ -16,6 +14,8 @@ nav:
     - Tentacle配置: tentaclesetup.md
     - 一鍵發佈: oneclickdeployment.md
     - 驗證系統可用: verify.md
+  - 網絡配置:
+    - 路由器設置: networksetup.md
   - 其他設備:
     - 打印機: printersetup.md
     - 刷卡機: cardswipesetup.md
