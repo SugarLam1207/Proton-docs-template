@@ -22,7 +22,7 @@ nav:
     - 錢箱: cashiersetup.md
     - 一體機: allinonesetup.md
   - 硬件常見問題:
-    - 問題及解決方案: issues.md
+    - 問題及解決方案: hardwareissues.md
   - 第二章 - 系統使用指引:
     - 快速入門: quickstart.md
     - 點餐管理: ordermanagement.md
