@@ -5,4 +5,4 @@
 | 序號 | 操作內容               | 操作示例                                                                                                                                                                                                       |
 |----|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | 連接電源后，連接RJ12接口<br>另一端連接到終端臺式機或雲打印機中     | ![](https://github.com/VIDA101/Proton-docs-VIDA/blob/main/docs/source/images/%E9%8C%A2%E7%AE%B1-1%20(2).png?raw=true) |
-| 2  | 在POS軟件中，點擊錢箱；<br>若錢箱自動彈出，則説明連接成功；    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E9%8C%A2%E7%AE%B1-1%20(1).png)  |
+| 2  | 在POS軟件中，點擊錢箱<br>若錢箱自動彈出，則説明連接成功；    | ![](https://raw.githubusercontent.com/VIDA101/Proton-docs-VIDA/main/docs/source/images/%E9%8C%A2%E7%AE%B1-1%20(1).png)  |
